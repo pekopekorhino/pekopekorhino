@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @pekopekorhino
+- 👋 Hi, I’m @_was
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on games
 
-Twitter: https://twitter.com/pekopekorhino
+Twitter: https://twitter.com/_was_games
 
 YouTube: https://www.youtube.com/channel/UC7CuKzumE33s_XazshcKMpA
 
